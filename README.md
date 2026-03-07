@@ -5,7 +5,7 @@ Data analysis and visualization of student statistics from Justus Liebig Univers
 
 # Auseinandersetzung mit dem Datensatz aus der Justus-Portal:
  -Allgemeine Struktur der Daten
- -Verstanden der jeweiligen Begriffe und Abkürzungen
+ -Verstanden der jeweiligen Begriffe und Abkürzungen ( Spalten, Zeilen usw)
 
 # Wahl der Variablen:
 -Variable1: Geschlecht
@@ -20,6 +20,6 @@ Data analysis and visualization of student statistics from Justus Liebig Univers
 -Daten über das Alter?
 -Daten über die Abschlussquote?
 -Weitere Variablen aussuchen
--Sich noch weiter vertraut machen mit der Anleitung-EPortfolio,
+-Sich weiter mit der Anleitung zum E-Portfolio vertraut machen und sie gründlich durchgehen,
  
 Nächstes Treffen:  in der Whatsappgruppe zu vereinbaren
