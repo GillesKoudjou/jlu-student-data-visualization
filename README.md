@@ -17,8 +17,8 @@ Data analysis and visualization of student statistics from Justus Liebig Univers
  
 # Schwierigkeiten/Aufgaben bis zum nächsten Termin: 
 -Daten von 24-25 und 2025-26?
--Daten über das Alter?
--Daten über die Abschlussquote?
+-Daten zum Alter?
+-Daten zur Abschlussquote?
 -Weitere Variablen aussuchen
 -Sich weiter mit der Anleitung zum E-Portfolio vertraut machen und sie gründlich durchgehen,
  
