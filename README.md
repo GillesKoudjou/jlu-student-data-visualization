@@ -4,8 +4,8 @@ Data analysis and visualization of student statistics from Justus Liebig Univers
 06.03.2026
 
 # Auseinandersetzung mit dem Datensatz aus der Justus-Portal:
- -Allgemeine Struktur der Daten
- -Verstanden der jeweiligen Begriffe und Abkürzungen ( Spalten, Zeilen usw)
+ -Analyse der allgemeinen Datenstruktur  
+ -Klärung der verwendeten Begriffe und Abkürzungen( Spalten, Zeilen usw)
 
 # Wahl der Variablen:
 -Variable1: Geschlecht
