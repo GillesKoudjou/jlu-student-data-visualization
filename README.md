@@ -68,6 +68,7 @@ Several visualization techniques were used:
 ### Study Programs
 
 Description: Visualization of the evolution of study programs between 2016 and 2025.
+<br>
 Key Finding: Mathematics remained the largest study field throughout the observation period. While Geography and Physics stayed relatively stable, Data Science and Informatics experienced noticeable growth in recent years, reflecting the increasing demand for data-oriented academic programs.
 <br> <br>
 
@@ -77,6 +78,7 @@ Key Finding: Mathematics remained the largest study field throughout the observa
 ### First-Semester Students
 
 Description : Development of first-semester student numbers over time.
+<br>
 Key Finding: A strong seasonal pattern can be observed, with Winter Semesters consistently attracting significantly more new students than Summer Semesters. Data-related programs showed the strongest growth, indicating increasing interest in digital and analytical skills.
 <br><br>
 
@@ -98,6 +100,7 @@ Key Finding: Most programs maintained a standard-study-period rate between 60% a
 ### International Students
 
 Description: Evolution of international student populations.
+<br>
 Key Finding: After a temporary decline around 2020, the number of international students increased steadily and reached its highest level by 2025. Data Science showed the strongest growth among international students, highlighting its increasing international attractiveness.
 <br><br>
 
@@ -108,6 +111,7 @@ Key Finding: After a temporary decline around 2020, the number of international 
 ### Gender Distribution
 
 Description: Comparison of male and female student populations.
+<br>
 Key Finding: Female students slightly outnumbered male students during most semesters. Student numbers remained relatively stable until 2023, after which both groups experienced a noticeable decline that may be related to changes in data availability or enrollment patterns.
 <br><br>
 
