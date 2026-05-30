@@ -141,6 +141,12 @@ The complete academic report is available here:
 
 ## Presentation
 
+
+The presentation summarizes the main findings and visualizations from the project.
+File:
+- Praesentation_Final_G13.pptx
+
+
 ## Future Improvements
 
 Possible future extensions include:
