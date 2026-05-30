@@ -87,6 +87,7 @@ Key Finding: A strong seasonal pattern can be observed, with Winter Semesters co
 ### Standard Study Period
 
 Description: Comparison of the proportion of students within the standard study period.
+<br>
 Key Finding: Most programs maintained a standard-study-period rate between 60% and 85%. Information technology-related programs displayed higher variability, partly due to newly introduced degree programs and the impact of the COVID-19 pandemic.
 <br><br>
 
@@ -137,6 +138,8 @@ Team members contributed to:
 The complete academic report is available here:
 
 [WiSe26_G13_EPortfolio.pdf](report/WiSe26_G13_EPortfolio.pdf)
+
+## Presentation
 
 ## Future Improvements
 
