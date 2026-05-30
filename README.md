@@ -1,5 +1,5 @@
 ## Jlu-student-data-visualization
-Data analysis and visualization of student statistics from Justus Liebig University Giessen (JLU), focusing on Faculty 07 (Mathematics, Computer Science, Physics, Geography) from 2016 to 2025. The project explores trends in student enrollment using available university data and presents the results through statistical analysis/visualizations
+Data analysis and visualization of student statistics from Justus Liebig University Giessen (JLU), focusing on Faculty 07 (Mathematics, Computer Science, Physics, Geography) from 2016 to 2025. The project explores trends in student enrollment using available university data and presents the results through statistical analysis/visualizations.
 
 #
 This project was developed as part of the university course "Informationsvisualisierung" (Information Visualization).
@@ -62,6 +62,51 @@ Several visualization techniques were used:
 - Stacked area charts
 - Line charts
 - Comparative visual analysis
+
+# Student Data Visualization – JLU FB07
+
+## Study Programs
+
+Visualization of the evolution of study programs between 2016 and 2025.
+<br> <br>
+
+![Study Programs](visuals/Studiengänge_2.png)
+
+
+## First-Semester Students
+
+Development of first-semester student numbers over time.
+<br><br>
+
+![First-Semester Students](visuals/StudienanfängerInnen.png)
+
+
+
+## Standard Study Period
+
+Comparison of the proportion of students within the standard study period.
+<br><br>
+
+![Standard Study Period](visuals/Regelstudienzeit.png)
+
+
+
+## International Students
+
+Evolution of international student populations.
+<br><br>
+
+![International Students](visuals/Internationale_Studierende.png)
+
+
+
+## Gender Distribution
+
+Comparison of male and female student populations.
+<br><br>
+
+![Gender Distribution](visuals/Geschlecht_2.png)
+
 
 06.03.2026
 
